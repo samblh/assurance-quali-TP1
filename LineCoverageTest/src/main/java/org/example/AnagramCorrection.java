@@ -1,3 +1,5 @@
+package org.example;
+
 public class AnagramCorrection {
     public static boolean isAnagram(String s1, String s2) {
         if (s1 == null || s2 == null) {
